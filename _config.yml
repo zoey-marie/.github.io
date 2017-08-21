@@ -11,7 +11,7 @@ email: TinyKitty@tinykitty.tk
 description: Random shit... tinykitty.tk... testtesttest
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.tinykitty.tk" # the base hostname & protocol for your site
-theme: Midnight
+theme: midnight
 
 # Build settings
 markdown: kramdown
